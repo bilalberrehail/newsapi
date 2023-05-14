@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.instantsystemtest.business.repositories.NewsRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-14T20:41:57" hostname="FRL-C02FN1X8MD6P" time="0.034">
-  <properties/>
-  <testcase name="When get news, result from data source is returned" classname="com.example.instantsystemtest.business.repositories.NewsRepositoryTest" time="0.034"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
