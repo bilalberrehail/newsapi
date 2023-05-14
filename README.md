@@ -47,3 +47,5 @@ Ils perdurent tout au long du cycle de vie de l'écran et permet une sauvegarde 
 Le projet possède certaines axes d'améliorations notamment sur la gestion des versions de chaque bibliothèque qui pourrait être centralisé dans un objet Kotlin permettant d'éviter la redondance des numéros de versions sur des bibliothèque similaire et rapprochées.
 
 Il pourrait être aussi intéressant d'externaliser dans un fichier gradle spécifique certaines bibliothèque ayant un but similaire comme par exemple un fichier contenant toutes les bibliothèque techniques liées aux tests unitaires, à Koin, à Compose, aux tests d'instrumentations etc ...
+
+L'utilisation de git crypt pour protéger le contenu des fichiers CPP contenant la clé d'API et l'URL de l'API peut être très intéressant à faire.
