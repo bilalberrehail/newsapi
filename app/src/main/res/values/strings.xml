@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstantSystemTest</string>
+    <string name="home_page_title">What\'s New at Apple</string>
+    <string name="home_page_subtitle">List of News</string>
+    <string name="option_see_more">See more</string>
+    <string name="error_retrieving_news">Error while retrieving news</string>
+    <string name="retry">Retry</string>
+</resources>

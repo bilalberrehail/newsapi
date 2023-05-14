@@ -1,0 +1,4 @@
+/Users/BILAL/AndroidStudioProjects/InstantSystemTest/app/.cxx/Debug/2sl3e173/arm64-v8a/CMakeFiles/service-url.dir
+/Users/BILAL/AndroidStudioProjects/InstantSystemTest/app/.cxx/Debug/2sl3e173/arm64-v8a/CMakeFiles/service-api-keys.dir
+/Users/BILAL/AndroidStudioProjects/InstantSystemTest/app/.cxx/Debug/2sl3e173/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/BILAL/AndroidStudioProjects/InstantSystemTest/app/.cxx/Debug/2sl3e173/arm64-v8a/CMakeFiles/rebuild_cache.dir

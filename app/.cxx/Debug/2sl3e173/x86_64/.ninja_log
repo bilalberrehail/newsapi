@@ -1,0 +1,5 @@
+# ninja log v5
+0	2021	1684027459888205102	CMakeFiles/service-url.dir/Users/BILAL/AndroidStudioProjects/InstantSystemTest/.secure/url/service-url.cpp.o	605cc3b0abb9b35a
+1	2024	1684027459890511013	CMakeFiles/service-api-keys.dir/Users/BILAL/AndroidStudioProjects/InstantSystemTest/.secure/keys/service-api-keys.cpp.o	f5d7c49bbb032382
+2025	2179	1684027460018264950	/Users/BILAL/AndroidStudioProjects/InstantSystemTest/app/build/intermediates/cxx/Debug/2sl3e173/obj/x86_64/libservice-api-keys.so	13ce5f12daf9deca
+2023	2179	1684027460018322896	/Users/BILAL/AndroidStudioProjects/InstantSystemTest/app/build/intermediates/cxx/Debug/2sl3e173/obj/x86_64/libservice-url.so	d8c140fc89688dae

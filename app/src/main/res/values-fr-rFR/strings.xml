@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstantSystemTest</string>
+    <string name="home_page_title">Quoi de neuf chez Apple</string>
+    <string name="home_page_subtitle">Liste des nouveautés</string>
+    <string name="option_see_more">Voir plus</string>
+    <string name="error_retrieving_news">Erreur lors de la récupération des nouveautés</string>
+    <string name="retry">Réessayer</string>
+</resources>
