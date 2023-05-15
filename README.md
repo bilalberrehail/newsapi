@@ -30,7 +30,7 @@ Permet l'écriture de test d'instrumentation. Majoritairement utilisé dans les 
 Bibliothèque permettant de nous faciliter le test des Flows. Il nous permet de tester chaque étape du flow, du début à la fin avec un large panel de fonctionnalité permettant un bon contrôle de ce qui est émis.
 
 ### Navigation component
-Bibliothèque de navigation fournissant des classes et fonctions nous permettant de naviguer entre plusieurs écrans. Il est très intéressant à utiliser dans des prochains même de petite taille car sa gestion de la backstack la rend indispensable pour une bonne gestion de la superposition des écrans.
+Bibliothèque de navigation fournissant des classes et fonctions nous permettant de naviguer entre plusieurs écrans. Il est très intéressant à utiliser dans des projets même de petite taille car sa gestion de la backstack la rend indispensable pour une bonne gestion de la superposition des écrans.
 
 La bibliothèque de navigation est très adapté à Compose et permet une écriture très naturelle des écrans qui la compose ainsi que des liens qu'il y a entre eux.
 
